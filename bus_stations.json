@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Location": "Banff Train\/Bus Station", "station_id": "B12", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -115.576140943365743, 51.181739049225484 ] } },
+{ "type": "Feature", "properties": { "Location": "Banff Avenue at Wolf Street", "station_id": "B13", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -115.570620908048411, 51.178602077754675 ] } },
+{ "type": "Feature", "properties": { "Location": "Lake Louise Overflow Lot", "station_id": "B14", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -116.129631784847916, 51.387029510451733 ] } },
+{ "type": "Feature", "properties": { "Location": "Chateau Lake Louise", "station_id": "B17", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -116.216278641748318, 51.41754297588475 ] } },
+{ "type": "Feature", "properties": { "Location": "Lake Louise Train Station", "station_id": "B16", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -116.188362338271261, 51.42923018885773 ] } },
+{ "type": "Feature", "properties": { "Location": "Samson Mall", "station_id": "B15", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -116.178672716028672, 51.42539222243385 ] } },
+{ "type": "Feature", "properties": { "Location": "Elevation Place", "station_id": "B8", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -115.351614209834139, 51.08915377586451 ] } },
+{ "type": "Feature", "properties": { "Location": "Moustache Lands", "station_id": "B10", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -115.347833514331242, 51.095245065244747 ] } },
+{ "type": "Feature", "properties": { "Location": "10th Street at Railway Avenue", "station_id": "B9", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -115.354434027943967, 51.09222586597155 ] } },
+{ "type": "Feature", "properties": { "Location": "17th Street at Railway Avenue", "station_id": "B11", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -115.360365737490298, 51.097494489913736 ] } },
+{ "type": "Feature", "properties": { "Location": "Stoney Nakoda Resort and Casino", "station_id": "B7", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -115.015471394267053, 51.10247634318722 ] } },
+{ "type": "Feature", "properties": { "Location": "Morley", "station_id": "B6", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -114.850564978137967, 51.170178650049301 ] } },
+{ "type": "Feature", "properties": { "Location": "Petro Canada Truck Stop", "station_id": "B5", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -114.47449003879467, 51.087615018559674 ] } },
+{ "type": "Feature", "properties": { "Location": "Cochrane Transit Terminal", "station_id": "B4", "mode": "Bus" }, "geometry": { "type": "Point", "coordinates": [ -114.470626075685786, 51.189130431116261 ] } }
+]
+}
