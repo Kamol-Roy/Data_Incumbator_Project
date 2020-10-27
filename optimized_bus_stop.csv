@@ -1,21 +1,21 @@
-,buffer,year,zone_fraction,station_id,location
-0,1,2011,True,B13,Banff Avenue at Wolf Street
-1,1,2011,False,B4,Cochrane Transit Terminal
-2,1,2015,True,B13,Banff Avenue at Wolf Street
-3,1,2015,False,B4,Cochrane Transit Terminal
-4,2,2011,True,B4,Cochrane Transit Terminal
-5,2,2011,False,B4,Cochrane Transit Terminal
-6,2,2015,True,B4,Cochrane Transit Terminal
-7,2,2015,False,B4,Cochrane Transit Terminal
-8,3,2011,True,B4,Cochrane Transit Terminal
-9,3,2011,False,B4,Cochrane Transit Terminal
-10,3,2015,True,B4,Cochrane Transit Terminal
-11,3,2015,False,B4,Cochrane Transit Terminal
-12,4,2011,True,B4,Cochrane Transit Terminal
-13,4,2011,False,B4,Cochrane Transit Terminal
-14,4,2015,True,B4,Cochrane Transit Terminal
-15,4,2015,False,B4,Cochrane Transit Terminal
-16,5,2011,True,B4,Cochrane Transit Terminal
-17,5,2011,False,B4,Cochrane Transit Terminal
-18,5,2015,True,B4,Cochrane Transit Terminal
-19,5,2015,False,B4,Cochrane Transit Terminal
+,buffer,year,zone_fraction,station_id,location,decision_metric
+0,1,2011,True,B13,Banff Avenue at Wolf Street,2.0
+1,1,2011,False,B4,Cochrane Transit Terminal,2.0
+2,1,2015,True,B13,Banff Avenue at Wolf Street,2.0
+3,1,2015,False,B4,Cochrane Transit Terminal,2.0
+4,2,2011,True,B4,Cochrane Transit Terminal,2.0
+5,2,2011,False,B4,Cochrane Transit Terminal,2.0
+6,2,2015,True,B4,Cochrane Transit Terminal,2.0
+7,2,2015,False,B4,Cochrane Transit Terminal,2.0
+8,3,2011,True,B4,Cochrane Transit Terminal,2.0
+9,3,2011,False,B4,Cochrane Transit Terminal,2.0
+10,3,2015,True,B4,Cochrane Transit Terminal,2.0
+11,3,2015,False,B4,Cochrane Transit Terminal,2.0
+12,4,2011,True,B4,Cochrane Transit Terminal,2.0
+13,4,2011,False,B4,Cochrane Transit Terminal,2.0
+14,4,2015,True,B4,Cochrane Transit Terminal,2.0
+15,4,2015,False,B4,Cochrane Transit Terminal,2.0
+16,5,2011,True,B4,Cochrane Transit Terminal,2.0
+17,5,2011,False,B4,Cochrane Transit Terminal,2.0
+18,5,2015,True,B4,Cochrane Transit Terminal,2.0
+19,5,2015,False,B4,Cochrane Transit Terminal,2.0
